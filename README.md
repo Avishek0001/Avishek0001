@@ -2,7 +2,7 @@
 <h3 align="center">A MERN developer from India</h3>
 <img align="right"  alt="Coding" width="400" src="https://miro.medium.com/max/1785/1*IRGHmiGsa16stedQvIaZfw.gif">
 
-- 🌱 I’m a **MERN DEVELOPER**
+- 🌱 I’m a **M+PERN DEVELOPER**
 
 - 📫 How to reach me **kunduavishek112233@gmail.com**
 
