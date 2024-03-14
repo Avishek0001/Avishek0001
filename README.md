@@ -2,31 +2,35 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.instagram.com/p/CpvCQkVLm0e/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==" target="blank"><img src="https://img.shields.io/static/v1?message=Avishek&logo=Linkedin&label=&color=blue&logoColor=white&labelColor=&style=flat" height="25" alt="twitter logo"  /></a>
-<a href="https://www.hackerrank.com/@abhishekkunduth1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@abhishekkunduth1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/avishek001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="avishek001" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/linkedin.com/in/avishek-kundu-6b9a6720b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/avishek-kundu-6b9a6720b" height="30" width="40" /></a>
-</p>
+<a href="https://www.linkedin.com/in/avishek-kundu-6b9a6720b/" target="blank"><img src="https://img.shields.io/static/v1?message=Avishek&logo=Linkedin&label=&color=blue&logoColor=white&labelColor=&style=flat" height="25" alt="twitter logo"  /></a>
+<a href="https://www.hackerrank.com/@abhishekkunduth1" target="blank"><img src="https://img.shields.io/static/v1?message=HackerRank&logo=HackerRank&label=&color=black&logoColor=green&labelColor=&style=flat" height="25" alt="HackerRank logo"  /></a>
+<a href="https://www.leetcode.com/avishek001" target="blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" height="25" alt="twitter logo"  /></a>
+  
 
 <h2 align="left">About Me</h2>
 <img align="right"  alt="Coding" width="400" src="https://miro.medium.com/max/1785/1*IRGHmiGsa16stedQvIaZfw.gif">
   
-- 🌱 I’m a **M+PERN DEVELOPER**
+-  Hi, I'm Avishek Kundu.
+- Currently into **M+PERN DEVELOPER**.
+- I'm learning new stuff day in and day out.
 
-- 📫 How to reach me **kunduavishek112233@gmail.com**
+-  How to reach me **kunduavishek112233@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.instagram.com/p/CpvCQkVLm0e/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a_v_i_s_h_k_e_" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@abhishekkunduth1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@abhishekkunduth1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/avishek001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="avishek001" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/linkedin.com/in/avishek-kundu-6b9a6720b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/avishek-kundu-6b9a6720b" height="30" width="40" /></a>
-</p>
+
 
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="left"> <p align="left">
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+ <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"  />
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avishek0001&show_icons=true&locale=en&layout=compact" alt="avishek0001" /></p>
 
