@@ -15,7 +15,7 @@
 - Proficiency in React.js for building dynamic user interfaces for frontend Development.
 - Currently spending the majority of time building full-stack web app projects based on MERN. 
 - Knowledgeable in Java for added versatility
-- Proficient in MySQL for relational database management
+- Proficient in MySQL for relational database management and use MongoDB (no SQL database) for full-stack projects
 
 - Worked as a Full-Stack Developer Intern in QuarterStack Technology.
 
