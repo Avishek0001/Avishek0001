@@ -11,7 +11,13 @@
   
 -  Hi, I'm Avishek Kundu.
 - Currently into **M+PERN DEVELOPER**.
-- I'm learning new stuff day in and day out.
+- I'm learning new stuff day in and day out. I’m currently expanding my knowledge in Front-end Development.
+- Proficiency in React.js for building dynamic user interfaces for frontend Development.
+- Currently spending the majority of time building full-stack web app projects based on MERN. 
+- Knowledgeable in Java for added versatility
+- Proficient in MySQL for relational database management
+
+- Worked as a Full-Stack Developer Intern in QuarterStack Technology.
 
 -  How to reach me **kunduavishek112233@gmail.com**
 
@@ -29,6 +35,7 @@
  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"  />
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avishek0001&show_icons=true&locale=en&layout=compact" alt="avishek0001" /></p>
