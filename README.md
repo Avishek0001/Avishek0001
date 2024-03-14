@@ -1,6 +1,5 @@
-<h1 align="left">Hi 👋, I'm Avishek Kundu</h1>
+<h1 align="left">Hey, Hi 👋, I'm Avishek Kundu</h1>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/avishek-kundu-6b9a6720b/" target="blank"><img src="https://img.shields.io/static/v1?message=Avishek&logo=Linkedin&label=&color=blue&logoColor=white&labelColor=&style=flat" height="25" alt="twitter logo"  /></a>
 <a href="https://www.hackerrank.com/@abhishekkunduth1" target="blank"><img src="https://img.shields.io/static/v1?message=HackerRank&logo=HackerRank&label=&color=black&logoColor=green&labelColor=&style=flat" height="25" alt="HackerRank logo"  /></a>
@@ -8,7 +7,7 @@
   
 
 <h2 align="left">About Me</h2>
-<img align="right"  alt="Coding" width="400" src="https://miro.medium.com/max/1785/1*IRGHmiGsa16stedQvIaZfw.gif">
+
   
 -  Hi, I'm Avishek Kundu.
 - Currently into **M+PERN DEVELOPER**.
