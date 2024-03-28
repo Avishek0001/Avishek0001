@@ -12,7 +12,7 @@
 -  Hi, I'm Avishek Kundu.
 - Currently into **M+PERN DEVELOPER**.
 - I'm learning new stuff day in and day out. I’m currently expanding my knowledge in Front-end Development.
-- Proficiency in React.js for building dynamic user interfaces for frontend Development.
+- Proficiency in React.js for building dynamic user interfaces for frontend Development and Worked on Several Frontend Projects.
 - Currently spending the majority of time building full-stack web app projects based on MERN. 
 - Knowledgeable in Java for added versatility
 - Proficient in MySQL for relational database management and use MongoDB (no SQL database) for full-stack projects
