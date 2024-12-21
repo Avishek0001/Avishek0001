@@ -10,7 +10,7 @@
 
   
 -  Hi, I'm Avishek Kundu.
-- Currently into **M+PERN DEVELOPER**.
+- Currently into **MERN and MEAN IONIC DEVELOPER**.
 - I'm learning new stuff day in and day out. I’m currently expanding my knowledge in Front-end Development.
 - Proficiency in React.js for building dynamic user interfaces for frontend Development and Worked on Several Frontend Projects.
 - Currently spending the majority of time building full-stack web app projects based on MERN. 
